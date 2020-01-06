@@ -1,6 +1,15 @@
 # api_project
 
-A new Flutter project.
+What was covered in this project 
+- Flutter Directory structures
+- Theming
+- Routing
+- Asynchronous requests
+- Dart Isolates
+- Data Models
+- Flutter best practices
+- FutureBuilder Widget
+- ListView & GridView
 
 ## Getting Started
 
